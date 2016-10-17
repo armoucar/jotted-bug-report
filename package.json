@@ -1,0 +1,18 @@
+{
+  "name": "using-jotted",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arthur M Carvalho",
+  "license": "ISC",
+  "devDependencies": {
+    "codemirror": "^5.19.0",
+    "jotted": "1.4.3"
+  },
+  "dependencies": {
+    "angular": "^1.5.8"
+  }
+}
